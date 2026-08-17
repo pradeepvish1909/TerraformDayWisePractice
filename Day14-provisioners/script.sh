@@ -1,0 +1,1 @@
+echo 'hello from veera nareshit Again3.0' >> /home/ec2-user/file200
